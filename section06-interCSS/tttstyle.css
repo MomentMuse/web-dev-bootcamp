@@ -1,0 +1,91 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 { 
+    color: darkseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+.vertical {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.horizontal {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+/* tr {
+    padding: 100px;
+}
+
+td {
+    padding: 100px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firstleft {
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.firstcenter {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.firstright {
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.secondleft {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.secondcenter {
+    border: 1px solid black;
+}
+
+.secondright {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.thirdleft {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.thirdcenter {
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.thirdright {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+} */

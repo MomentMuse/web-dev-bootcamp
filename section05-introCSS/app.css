@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body {
+    background: url(https://st2.depositphotos.com/2827793/5952/v/950/depositphotos_59524699-stock-illustration-watercolor-floral-pattern.jpg);
+    background-size: cover;
+    font-family: 'Quicksand', sans-serif;
+}
+h1, h3 {
+    color: darkseagreen;
+    background: lavender;
+}
+li {
+    color: rosybrown;
+    font-weight: bold;
+    background-color: lavender;
+}
+.mypic {
+    width: 300px;
+    border-radius: 50%;
+    /* border-color: lavender;
+    border-width: 10px;
+    border-style: solid; */
+    border: 10px solid lavender;
+}
+.zen {
+    font-style: italic;
+}

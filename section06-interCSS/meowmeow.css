@@ -1,0 +1,46 @@
+html {
+    /* background-image: url(pusheenpattern.png); */
+    
+    background-image: url(https://78.media.tumblr.com/57177efbdeacf841f15ce02bc4ca7a54/tumblr_ofksqehAye1uk58d3o4_r1_1280.jpg);
+}
+
+body {
+    width: 56%;
+    min-width: 500px;
+    margin: 30px auto;
+    background-color: floralwhite;
+    border: 20px solid lightcoral;
+    padding: 1.5%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.0rem;
+}
+
+.date {
+    font-family: 'Amatic SC', cursive;
+    text-transform: uppercase;
+    font-size: 2.0rem;
+    color: indianred;
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: sandybrown;
+}
+
+.firstp {
+    border-left: 5px solid lightcoral;
+    padding-left: 10px;
+}
+
+hr {
+    border: 0;
+    height: 3px;
+    background-image: linear-gradient(to right, rgba(240, 128, 128, 0), rgb(240, 128, 128, 0.75), rgba(240, 128, 128, 0));
+}
+
+.post {
+    margin: 25px 0;
+}
